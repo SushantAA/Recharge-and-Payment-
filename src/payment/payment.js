@@ -1,0 +1,1 @@
+alert("payment js connected");
